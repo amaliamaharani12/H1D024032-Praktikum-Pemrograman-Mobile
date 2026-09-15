@@ -42,10 +42,3 @@
 **Test Feedback**
 
 ![Test Feedback - Dark Mode](screenshots/pertemuan2_dark_test_feedback.png)
-
-## Cara Menjalankan
-
-1. Clone repository ini
-2. Buka project menggunakan Android Studio
-3. Sync Gradle
-4. Klik tombol Run (▶️)
