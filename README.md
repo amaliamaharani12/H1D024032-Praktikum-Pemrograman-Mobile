@@ -42,3 +42,17 @@
 **Test Feedback**
 
 ![Test Feedback - Dark Mode](screenshots/pertemuan2_dark_test_feedback.png)
+
+### 3. Tampilan Pertemuan 3
+
+#### a. Preview
+
+![Preview Pertemuan 3](screenshots/pertemuan3_preview.png)
+
+#### b. Light Mode
+
+![Light Mode](screenshots/pertemuan3_light.png)
+
+#### c. Dark Mode
+
+![Dark Mode](screenshots/pertemuan3_dark.png)

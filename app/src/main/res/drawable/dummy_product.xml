@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Background -->
+    <path
+        android:fillColor="#F0F0F0"
+        android:pathData="M0,0h200v200H0z" />
+
+    <!-- Product box icon -->
+    <path
+        android:fillColor="#BDBDBD"
+        android:pathData="M100,40L155,65V135L100,160L45,135V65Z" />
+
+    <path
+        android:fillColor="#9E9E9E"
+        android:pathData="M100,40L155,65L100,90L45,65Z" />
+
+    <path
+        android:fillColor="#AEAEAE"
+        android:pathData="M100,90V160L155,135V65Z" />
+
+</vector>
